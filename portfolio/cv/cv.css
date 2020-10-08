@@ -1,0 +1,144 @@
+.cv {
+  font-family: arial;
+  font-size: 80px;
+  margin-bottom: -1px;
+  margin-left: 10px;
+  color: #5A5D63;
+}
+.navn {
+  font-family: arial;
+  font-size: 15px;
+  margin-top: -1%;
+  margin-left: 10px;
+  margin-right: 87%;
+  color: #5A5D63;
+  background-color: ;
+}
+
+.uddannelser {
+  font-family: arial;
+  font-size: 30px;
+  margin-top: 30px;
+  margin-left: 150px;
+  margin-right: 150px;
+  background-color:#B6B8CD ;
+  color: #2A2B2E;
+}
+
+.arbejde {
+  font-family: arial;
+  font-size: 30px;
+  margin-top: 30px;
+  margin-left: 150px;
+  margin-right: 150px;
+  background-color:#B6B8CD;
+  color:#2A2B2E;
+}
+
+p {
+  font-family: arial;
+  color: #2A2B2E;
+  margin-left: 150px;
+}
+
+.folkeskole {
+  font-family: arial;
+  font-size: 28px;
+  margin-top: 40px;
+  color: #2A2B2E;
+  margin-left: 150px;
+}
+
+.folkeskolens {
+  font-family: arial;
+  font-size: 28px;
+  margin-top: 40px;
+  color: #2A2B2E;
+  margin-left: 150px;
+}
+
+.ungdoms{
+  font-family: arial;
+  font-size: 28px;
+  margin-top: 40px;
+  color: #2A2B2E;
+  margin-left: 150px;
+}
+
+.hg {
+  font-family: arial;
+  font-size: 28px;
+  margin-top: 40px;
+  color: #2A2B2E;
+  margin-left: 150px;
+}
+
+.forsvarets {
+  font-family: arial;
+  font-size: 28px;
+  margin-top: 40px;
+  color: #2A2B2E;
+  margin-left: 150px;
+}
+
+.virøko {
+  font-family: arial;
+  font-size: 28px;
+  margin-top: 40px;
+  color: #2A2B2E;
+  margin-left: 150px;
+}
+
+.pæd {
+  font-family: arial;
+  font-size: 28px;
+  margin-top: 40px;
+  color: #2A2B2E;
+  margin-left: 150px;
+}
+
+.mul {
+  font-family: arial;
+  font-size: 28px;
+  margin-top: 40px;
+  color: #2A2B2E;
+  margin-left: 150px;
+}
+
+.bar {
+  font-family: arial;
+  font-size: 28px;
+  margin-top: 40px;
+  color: #2A2B2E;
+  margin-left: 150px;
+}
+
+.medhj {
+  font-family: arial;
+  font-size: 28px;
+  margin-top: 40px;
+  color: #2A2B2E;
+  margin-left: 150px;
+}
+
+.vikar {
+  font-family: arial;
+  font-size: 28px;
+  margin-top: 40px;
+  color: #2A2B2E;
+  margin-left: 150px;
+}
+
+.pædjob {
+  font-family: arial;
+  font-size: 28px;
+  margin-top: 40px;
+  color: #2A2B2E;
+  margin-left: 150px;
+}
+
+body { /*med 100% kan brugeren zoome*/
+  font-size: 100%;
+  background-color: ;
+  opacity: ;
+}
